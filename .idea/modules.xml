@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-00-Coupling/spring-00-Coupling.iml" filepath="$PROJECT_DIR$/spring-00-Coupling/spring-00-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/spring-01-Core-IoC-Bean-Annotation.iml" filepath="$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/spring-01-Core-IoC-Bean-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02-Core-IoC-Stereotype-Annotation/spring-02-Core-IoC-Stereotype-Annotation.iml" filepath="$PROJECT_DIR$/spring-02-Core-IoC-Stereotype-Annotation/spring-02-Core-IoC-Stereotype-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-03-Wiring/spring-03-Wiring.iml" filepath="$PROJECT_DIR$/spring-03-Wiring/spring-03-Wiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-Autowiring/spring-04-Autowiring.iml" filepath="$PROJECT_DIR$/spring-04-Autowiring/spring-04-Autowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-05-Core-Abstraction/spring-05-Core-Abstraction.iml" filepath="$PROJECT_DIR$/spring-05-Core-Abstraction/spring-05-Core-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-06-Core-BeanScope/spring-06-Core-BeanScope.iml" filepath="$PROJECT_DIR$/spring-06-Core-BeanScope/spring-06-Core-BeanScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-07-SpringBoot-Demo/spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/spring-07-SpringBoot-Demo/spring-07-SpringBoot-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-08-MVC-Controller/spring-08-MVC-Controller.iml" filepath="$PROJECT_DIR$/spring-08-MVC-Controller/spring-08-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-09-MVC-Model/spring-09-MVC-Model.iml" filepath="$PROJECT_DIR$/spring-09-MVC-Model/spring-09-MVC-Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-10-Thymeleaf/spring-10-Thymeleaf.iml" filepath="$PROJECT_DIR$/spring-10-Thymeleaf/spring-10-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-main.iml" filepath="$PROJECT_DIR$/spring-main.iml" />
+    </modules>
+  </component>
+</project>
