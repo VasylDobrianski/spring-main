@@ -27,7 +27,7 @@ public class Payment {
     private Status paymentStatus;
 
     //@OneToOne(cascade = CascadeType.ALL)
-    @OneToOne(cascade = {CascadeType.PERSIST,CascadeType.MERGE})
+    @OneToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
     @JoinColumn(name = "payment_detail_id")
     private PaymentDetail paymentDetail;
 
@@ -39,7 +39,6 @@ public class Payment {
         this.amount = amount;
         this.paymentStatus = paymentStatus;
     }
-
 
 
 }

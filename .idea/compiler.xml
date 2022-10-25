@@ -12,6 +12,7 @@
         <module name="spring-03-Wiring" />
         <module name="spring-00-Coupling" />
         <module name="spring-01-Core-IoC-Bean-Annotation" />
+        <module name="spring-13-Data-Cinema-Lab" />
         <module name="spring-05-Core-Abstraction" />
         <module name="spring-09-MVC-Model" />
         <module name="spring-08-MVC-Controller" />
@@ -36,6 +37,7 @@
       <module name="spring-10-Thymeleaf" target="11" />
       <module name="spring-11-Data-TableCreation" target="11" />
       <module name="spring-12-Data-Relationship" target="11" />
+      <module name="spring-13-Data-Cinema-Lab" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -46,6 +48,7 @@
       <module name="spring-10-Thymeleaf" options="-parameters" />
       <module name="spring-11-Data-TableCreation" options="-parameters" />
       <module name="spring-12-Data-Relationship" options="-parameters" />
+      <module name="spring-13-Data-Cinema-Lab" options="-parameters" />
     </option>
   </component>
 </project>

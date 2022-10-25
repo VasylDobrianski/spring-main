@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-10-Thymeleaf/spring-10-Thymeleaf.iml" filepath="$PROJECT_DIR$/spring-10-Thymeleaf/spring-10-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-11-Data-TableCreation/spring-11-Data-TableCreation.iml" filepath="$PROJECT_DIR$/spring-11-Data-TableCreation/spring-11-Data-TableCreation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-12-Dara-Relationship/spring-12-Data-Relationship.iml" filepath="$PROJECT_DIR$/spring-12-Dara-Relationship/spring-12-Data-Relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-13-Data-Cinema-Lab/spring-13-Data-Cinema-Lab.iml" filepath="$PROJECT_DIR$/spring-13-Data-Cinema-Lab/spring-13-Data-Cinema-Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-main.iml" filepath="$PROJECT_DIR$/spring-main.iml" />
     </modules>
   </component>
