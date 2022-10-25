@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cydeo</groupId>
-    <artifactId>spring-12-Dara-Relationship</artifactId>
+    <artifactId>spring-12-Data-Relationship</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-12-Dara-Relationship</name>
-    <description>spring-12-Dara-Relationship</description>
+    <name>spring-12-Data-Relationship</name>
+    <description>spring-12-Data-Relationship</description>
     <properties>
         <java.version>11</java.version>
     </properties>
